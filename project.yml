@@ -19,7 +19,7 @@ configFiles:
   Release: Config/Project-Release.xcconfig
 
 options:
-  defaultConfig: Release
+  defaultConfig: Debug
   groupSortPosition: bottom
   transitivelyLinkDependencies: false
   createIntermediateGroups: true
