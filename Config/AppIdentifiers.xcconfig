@@ -16,7 +16,7 @@
 
 
 // App identity
-BUNDLE_DISPLAY_NAME = Element(Vero)
+BUNDLE_DISPLAY_NAME = Vero(Element)
 BASE_BUNDLE_IDENTIFIER = co.vero.app.element
 APPLICATION_GROUP_IDENTIFIER = group.co.vero.app.element
 APPLICATION_SCHEME = element
