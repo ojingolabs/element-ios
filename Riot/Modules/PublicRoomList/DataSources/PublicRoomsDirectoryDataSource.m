@@ -19,7 +19,7 @@
 
 #import "PublicRoomTableViewCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #pragma mark - Constants definitions
 

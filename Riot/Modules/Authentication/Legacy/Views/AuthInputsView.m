@@ -26,7 +26,7 @@
 
 #import "RiotNavigationController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface AuthInputsView () <MXKCountryPickerViewControllerDelegate>
 {

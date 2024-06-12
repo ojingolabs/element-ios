@@ -24,7 +24,7 @@
 #import "RecentTableViewCell.h"
 #import "InviteRecentTableViewCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface PeopleViewController () <SpaceMembersCoordinatorBridgePresenterDelegate, MasterTabBarItemDisplayProtocol>
 {

@@ -16,7 +16,7 @@
  */
 
 #import "RoomEncryptedDataBubbleCell.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 NSString *const kRoomEncryptedDataBubbleCellTapOnEncryptionIcon = @"kRoomEncryptedDataBubbleCellTapOnEncryptionIcon";
 

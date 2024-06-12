@@ -84,7 +84,7 @@
 
 #import "RoomTimelineCellProvider.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 NSNotificationName const RoomCallTileTappedNotification = @"RoomCallTileTappedNotification";
 NSNotificationName const RoomGroupCallTileTappedNotification = @"RoomGroupCallTileTappedNotification";

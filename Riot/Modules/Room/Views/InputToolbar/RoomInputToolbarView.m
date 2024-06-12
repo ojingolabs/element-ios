@@ -18,7 +18,7 @@
 #import "RoomInputToolbarView.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static const CGFloat kContextBarHeight = 24;
 static const CGFloat kActionMenuAttachButtonSpringVelocity = 7;

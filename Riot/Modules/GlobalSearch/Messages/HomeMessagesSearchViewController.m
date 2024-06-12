@@ -17,7 +17,7 @@
 
 #import "HomeMessagesSearchViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "HomeViewController.h"
 

@@ -19,7 +19,7 @@
 
 #import "MXRoom+Riot.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation RecentCellData
 

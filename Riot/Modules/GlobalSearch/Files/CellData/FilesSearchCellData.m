@@ -18,7 +18,7 @@
 
 #import "FilesSearchCellData.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation FilesSearchCellData
 @synthesize roomId, senderDisplayName;

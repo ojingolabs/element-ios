@@ -19,7 +19,7 @@
 
 #import "AvatarGenerator.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation MXRoomSummary (Riot)
 

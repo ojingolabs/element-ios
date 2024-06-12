@@ -18,7 +18,7 @@
 #import "DirectoryServerTableViewCell.h"
 #import "DirectoryServerDetailTableViewCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface DirectoryServerPickerViewController ()
 {

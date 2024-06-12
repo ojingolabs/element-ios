@@ -16,7 +16,7 @@
 
 #import "MXKRoomOutgoingTextMsgBubbleCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation MXKRoomOutgoingTextMsgBubbleCell
 

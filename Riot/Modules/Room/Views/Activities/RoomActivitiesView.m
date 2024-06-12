@@ -19,7 +19,7 @@
 #import "RoomActivitiesView.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import <objc/runtime.h>
 

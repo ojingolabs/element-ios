@@ -17,7 +17,7 @@
 
 #import "SectionHeaderView.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static const CGFloat kInterItemsSpaceHorizontal = 8.0;
 

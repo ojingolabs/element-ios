@@ -20,7 +20,7 @@
 #import "RecentCellData.h"
 #import "ThemeService.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface RoomsListViewController ()
 

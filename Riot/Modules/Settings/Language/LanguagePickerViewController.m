@@ -16,7 +16,7 @@
 
 #import "LanguagePickerViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface LanguagePickerViewController ()
 {

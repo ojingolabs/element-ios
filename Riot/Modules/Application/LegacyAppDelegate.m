@@ -51,7 +51,7 @@
 #import "MXSession+Riot.h"
 #import "MXRoom+Riot.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 #import "PushNotificationService.h"
 
 //#define MX_CALL_STACK_OPENWEBRTC

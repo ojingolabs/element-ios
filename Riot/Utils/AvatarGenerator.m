@@ -19,7 +19,7 @@
 
 #import "ThemeService.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation AvatarGenerator
 

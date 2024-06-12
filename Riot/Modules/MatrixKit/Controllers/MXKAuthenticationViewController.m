@@ -30,7 +30,7 @@
 
 #import "MXKSwiftHeader.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface MXKAuthenticationViewController ()
 {

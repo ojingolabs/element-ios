@@ -23,7 +23,7 @@
 #import "MXRoom+Riot.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "MXRoomSummary+Riot.h"
 

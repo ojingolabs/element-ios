@@ -23,7 +23,7 @@
 #import "RoomBubbleCellData.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "MXKRoomBubbleTableViewCell+Riot.h"
 

@@ -26,7 +26,7 @@
 #import "SettingsViewController.h"
 #import "SecurityViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface MasterTabBarController () <UITabBarControllerDelegate>
 {

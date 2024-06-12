@@ -17,7 +17,7 @@
 #import "TableViewCellWithPhoneNumberTextField.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "NBPhoneNumberUtil.h"
 

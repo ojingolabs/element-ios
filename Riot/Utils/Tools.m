@@ -16,7 +16,7 @@
 
 #import "Tools.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation Tools
 

@@ -19,7 +19,7 @@
 
 #import "WidgetManager.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 NSString *const kIntegrationManagerMainScreen = nil;
 NSString *const kIntegrationManagerAddIntegrationScreen = @"add_integ";

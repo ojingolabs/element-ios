@@ -17,7 +17,7 @@
 
 #import "RoomPreviewData.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation RoomPreviewData
 

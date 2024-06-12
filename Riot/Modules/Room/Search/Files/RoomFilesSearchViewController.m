@@ -24,7 +24,7 @@
 #import "FilesSearchCellData.h"
 #import "FilesSearchTableViewCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface RoomFilesSearchViewController ()
 {

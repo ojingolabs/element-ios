@@ -22,7 +22,7 @@
 #import "MXEvent.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #pragma mark - Constant definitions
 

@@ -36,7 +36,7 @@
 
 #import "MXKSwiftHeader.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 NSString *const kMXKAccountUserInfoDidChangeNotification = @"kMXKAccountUserInfoDidChangeNotification";
 NSString *const kMXKAccountAPNSActivityDidChangeNotification = @"kMXKAccountAPNSActivityDidChangeNotification";

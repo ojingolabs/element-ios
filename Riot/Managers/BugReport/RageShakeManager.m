@@ -21,7 +21,7 @@
 
 #import "BugReportViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static RageShakeManager* sharedInstance = nil;
 

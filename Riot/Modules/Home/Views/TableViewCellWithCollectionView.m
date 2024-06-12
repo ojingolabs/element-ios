@@ -16,7 +16,7 @@
 
 #import "TableViewCellWithCollectionView.h"
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static CGFloat const kEditionViewCornerRadius = 10.0;
 

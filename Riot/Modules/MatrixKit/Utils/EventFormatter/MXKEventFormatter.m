@@ -28,7 +28,7 @@
 #import "MXRoom+Sync.h"
 
 #import "MXKRoomNameStringLocalizer.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static NSString *const kHTMLATagRegexPattern = @"<a href=(?:'|\")(.*?)(?:'|\")>([^<]*)</a>";
 static NSString *const kRepliedTextPattern = @"<mx-reply>.*<blockquote>.*<br>(.*)</blockquote></mx-reply>";

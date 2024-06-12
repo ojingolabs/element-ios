@@ -18,4 +18,4 @@
  If you want to reference a Swift class from the project please use forward declaration in the header file and then import this header in your implementation file.
 */
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"

@@ -23,7 +23,7 @@
 #import "Tools.h"
 #import "RoomReactionsViewSizer.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static NSAttributedString *timestampVerticalWhitespace = nil;
 

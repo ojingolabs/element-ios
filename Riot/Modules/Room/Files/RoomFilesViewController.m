@@ -19,7 +19,7 @@
 
 #import "FilesSearchTableViewCell.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "AttachmentsViewController.h"
 

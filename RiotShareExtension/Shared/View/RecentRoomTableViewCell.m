@@ -19,7 +19,7 @@
 #import "MXRoomSummary+Riot.h"
 #import "ThemeService.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface RecentRoomTableViewCell ()
 

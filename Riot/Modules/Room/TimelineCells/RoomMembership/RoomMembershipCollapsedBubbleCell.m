@@ -18,7 +18,7 @@
 #import "RoomMembershipCollapsedBubbleCell.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "RoomBubbleCellData.h"
 

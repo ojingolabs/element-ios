@@ -17,7 +17,7 @@
 
 #import "TableViewCellWithCheckBoxes.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 // The space between 2 check boxes
 #define TABLEVIEWCELLWITHCHECKBOXES_MARGIN 8

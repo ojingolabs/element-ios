@@ -16,7 +16,7 @@
 
 #import "BugReportViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "GBDeviceInfo_iOS.h"
 

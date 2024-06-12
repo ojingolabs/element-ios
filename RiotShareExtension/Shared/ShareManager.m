@@ -23,7 +23,7 @@
 #import "ShareDataSource.h"
 #import "ShareItemSenderProtocol.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface ShareManager () <ShareViewControllerDelegate, ShareItemSenderDelegate>
 

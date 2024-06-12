@@ -18,7 +18,7 @@
 
 #import "CallViewController.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 #import "AvatarGenerator.h"
 

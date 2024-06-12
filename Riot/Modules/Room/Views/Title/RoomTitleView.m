@@ -18,7 +18,7 @@
 #import "RoomTitleView.h"
 
 #import "ThemeService.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation RoomTitleView
 

@@ -19,7 +19,7 @@
 
 #import <MobileCoreServices/MobileCoreServices.h>
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface MediaAlbumContentViewController ()
 {

@@ -18,7 +18,7 @@
 
 #import "RecentsDataSource.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface RoomsViewController () <MasterTabBarItemDisplayProtocol>
 {

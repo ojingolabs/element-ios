@@ -16,7 +16,7 @@
 
 #import "MXKRoomBubbleCellDataWithAppendingMode.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 static NSAttributedString *messageSeparator = nil;
 

@@ -16,7 +16,7 @@
 
 #import "MatrixContactsDataSource.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation MatrixContactsDataSource
 

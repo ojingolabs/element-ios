@@ -23,7 +23,7 @@
 #import "MXKImageView.h"
 #import "MXKPieChartView.h"
 
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @implementation MXKRoomOutgoingAttachmentBubbleCell
 
