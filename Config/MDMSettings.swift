@@ -20,9 +20,9 @@ enum MDMSettings {
     private static let appleManagedConfigurationKey = "com.apple.configuration.managed"
     
     private enum Key: String {
-        case serverConfigDefaultHomeserverUrlString = "im.vector.app.serverConfigDefaultHomeserverUrlString"
-        case serverConfigSygnalAPIUrlString = "im.vector.app.serverConfigSygnalAPIUrlString"
-        case clientPermalinkBaseUrl = "im.vector.app.clientPermalinkBaseUrl"
+        case serverConfigDefaultHomeserverUrlString = "co.vero.app.element.serverConfigDefaultHomeserverUrlString"
+        case serverConfigSygnalAPIUrlString = "co.vero.app.element.serverConfigSygnalAPIUrlString"
+        case clientPermalinkBaseUrl = "co.vero.app.element.clientPermalinkBaseUrl"
     }
     
     static var serverConfigDefaultHomeserverUrlString: String? {

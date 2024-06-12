@@ -1,7 +1,7 @@
 name: ElementRiot
 
 schemes:
-  Riot:
+  ElementRiot:
     analyze:
       config: Debug
     archive:

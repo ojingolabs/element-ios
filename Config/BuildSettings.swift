@@ -87,7 +87,7 @@ final class BuildSettings: NSObject {
     }
     
     // Element-Web instance for the app
-    static let applicationWebAppUrlString = "https://app.element.io"
+    static let applicationWebAppUrlString = "https://element.app.vero.co"
     
     
     // MARK: - Localization
@@ -103,24 +103,24 @@ final class BuildSettings: NSObject {
 
     /// Default server proposed on the authentication screen
     static var serverConfigDefaultHomeserverUrlString: String {
-        MDMSettings.serverConfigDefaultHomeserverUrlString ?? "https://matrix.org"
+        MDMSettings.serverConfigDefaultHomeserverUrlString ?? "https://chat.metapolitan.io/" //"https://matrix.metapolitan.io:8448"
     }
     
     /// Default identity server
-    static let serverConfigDefaultIdentityServerUrlString = "https://vector.im"
+    static let serverConfigDefaultIdentityServerUrlString = "https://vector.im" 
         
     static var serverConfigSygnalAPIUrlString: String {
-        MDMSettings.serverConfigSygnalAPIUrlString ?? "https://matrix.org/_matrix/push/v1/notify"
+        MDMSettings.serverConfigSygnalAPIUrlString ?? "https://chat.metapolitan.io/_matrix/push/v1/notify"
     }
     
     // MARK: - Legal URLs
     
     // Note: Set empty strings to hide the related entry in application settings
-    static let applicationCopyrightUrlString = "https://element.io/copyright"
-    static let applicationPrivacyPolicyUrlString = "https://element.io/privacy"
-    static let applicationAcceptableUsePolicyUrlString = "https://element.io/acceptable-use-policy-terms"
+    static let applicationCopyrightUrlString = "https://chat.metapolitan.io/copyright"
+    static let applicationPrivacyPolicyUrlString = "https://chat.metapolitan.io/privacy"
+    static let applicationAcceptableUsePolicyUrlString = "https://chat.metapolitan.io/acceptable-use-policy-terms"
     static let applicationHelpUrlString =
-    "https://element.io/help"
+    "https://chat.metapolitan.io/help"
     
     
     // MARK: - Permalinks
@@ -154,7 +154,7 @@ final class BuildSettings: NSObject {
     // MARK: - VoIP
     static var allowVoIPUsage: Bool {
         #if canImport(JitsiMeetSDK)
-        return true
+        return true 
         #else
         return false
         #endif
@@ -164,6 +164,7 @@ final class BuildSettings: NSObject {
     // MARK: -  Public rooms Directory
     // List of homeservers for the public rooms directory
     static let publicRoomsDirectoryServers = [
+        "chat.metapolitan.io",
         "matrix.org",
         "gitter.im"
     ]

@@ -36,6 +36,7 @@ include:
   - path: RiotSwiftUI/targetUnitTests.yml
   - path: RiotSwiftUI/targetUITests.yml
   - path: CommonKit/target.yml
+  - path: ElementRiot/target.yml
   - path: CommonKit/targetUnitTests.yml
   # Disabled due to crypto corruption issues.
   # https://github.com/element-hq/element-ios/issues/7618

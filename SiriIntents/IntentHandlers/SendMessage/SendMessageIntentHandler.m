@@ -17,7 +17,7 @@
 #import "SendMessageIntentHandler.h"
 #import "ContactResolver.h"
 #import "MXKAccountManager.h"
-#import "GeneratedInterface-Swift.h"
+#import "VERO-Swift.h"
 
 @interface SendMessageIntentHandler ()
 
