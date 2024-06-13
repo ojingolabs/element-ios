@@ -10,7 +10,6 @@ schemes:
       targets:
         ElementRiot:
         - running
-        - testing
         - profiling
         - analyzing
         - archiving
@@ -19,18 +18,13 @@ schemes:
     run:
       config: Debug
       disableMainThreadChecker: true
-    test:
-      config: Debug
-      disableMainThreadChecker: true
-      targets:
-      - CommonKitUnitTests
-
+    
 targets:
   ElementRiot:
     type: framework
     platform: iOS
     
-dependencies:
+    dependencies:
     # Disabled due to crypto corruption issues.
     # https://github.com/element-hq/element-ios/issues/7618
     # - target: RiotShareExtension
@@ -51,7 +45,7 @@ dependencies:
       Debug: Debug.xcconfig
       Release: Release.xcconfig
       
-  preBuildScripts:
+    preBuildScripts:
     - name: ⚠️ SwiftLint
       runOnlyWhenInstalling: false
       shell: /bin/sh
@@ -80,13 +74,13 @@ dependencies:
         - "Release"
         - "Templates/*.sh"
     - path: ../Config
-    - path: .
+    - path: ../Riot
       excludes:
         - "Modules/Room/EmojiPicker/Data/EmojiMart/EmojiJSONStore.swift"
         - "Assets/ar.lproj/**" # RTL is broken so languages are disabled for now
         - "Assets/he.lproj/**"
         - "Assets/pr.lproj/**" # Unsupported language on iOS
     - path: ../RiotShareExtension/Shared
-    - path: Modules/MatrixKit
+    - path: ../Riot/Modules/MatrixKit
       excludes:
         - "**/*.md" # excludes all files with the .md extension
