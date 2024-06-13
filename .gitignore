@@ -31,13 +31,13 @@ Pods/
 
 ## Ignore project files as we generate them with xcodegen (https://github.com/yonaskolb/XcodeGen)
 # Plus ridiculous workaround to unignore the Package.resolved file for SwiftPM.
-*.xcodeproj
-*.xcworkspace/*
-!Riot.xcworkspace/xcshareddata
-Riot.xcworkspace/xcshareddata/*
-!Riot.xcworkspace/xcshareddata/swiftpm/
-Riot.xcworkspace/xcshareddata/swiftpm/*
-!Riot.xcworkspace/xcshareddata/swiftpm/Package.resolved
+#*.xcodeproj
+#*.xcworkspace/*
+№!Riot.xcworkspace/xcshareddata
+№Riot.xcworkspace/xcshareddata/*
+№!Riot.xcworkspace/xcshareddata/swiftpm/
+№Riot.xcworkspace/xcshareddata/swiftpm/*
+№!Riot.xcworkspace/xcshareddata/swiftpm/Package.resolved
 
 # Fastlane
 fastlane/report.xml
