@@ -23,11 +23,11 @@
 PRODUCT_NAME = ElementRiot
 PRODUCT_BUNDLE_IDENTIFIER = $(BASE_BUNDLE_IDENTIFIER)
 
-INFOPLIST_FILE = Riot/SupportingFiles/Info.plist
+INFOPLIST_FILE = ElementRiot/Info.plist
 
 SKIP_INSTALL = YES
 
 SWIFT_OBJC_BRIDGING_HEADER = $(SRCROOT)/Riot/SupportingFiles/Riot-Bridging-Header.h
 LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks
 
-SWIFT_OBJC_INTERFACE_HEADER_NAME = VERO-Swift.h
+SWIFT_OBJC_INTERFACE_HEADER_NAME = GeneratedInterface-Swift.h

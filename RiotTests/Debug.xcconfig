@@ -19,4 +19,4 @@
 
 #include "Pods/Target Support Files/Pods-RiotTests/Pods-RiotTests.debug.xcconfig"
 
-SWIFT_OBJC_INTERFACE_HEADER_NAME = VERO-Swift.h
+SWIFT_OBJC_INTERFACE_HEADER_NAME = GeneratedInterface-Swift.h
