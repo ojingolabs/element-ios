@@ -18,7 +18,7 @@
 #import "RoomOutgoingTextMsgBubbleCell.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 #import "MXKRoomBubbleTableViewCell+Riot.h"
 
 @implementation RoomOutgoingTextMsgBubbleCell

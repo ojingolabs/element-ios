@@ -29,7 +29,7 @@
 #import "MXRoom+Sync.h"
 #import "MXKMessageTextView.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #pragma mark - Constant definitions
 NSString *const kMXKRoomBubbleCellTapOnMessageTextView = @"kMXKRoomBubbleCellTapOnMessageTextView";

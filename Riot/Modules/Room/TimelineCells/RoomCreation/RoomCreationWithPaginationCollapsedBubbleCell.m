@@ -17,7 +17,7 @@
 #import "RoomCreationWithPaginationCollapsedBubbleCell.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "RoomBubbleCellData.h"
 

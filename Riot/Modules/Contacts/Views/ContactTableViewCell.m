@@ -18,7 +18,7 @@
 #import "ContactTableViewCell.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "AvatarGenerator.h"
 #import "Tools.h"

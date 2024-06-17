@@ -18,7 +18,7 @@
 #import "ExpandedRoomTitleView.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "MXRoomSummary+Riot.h"
 

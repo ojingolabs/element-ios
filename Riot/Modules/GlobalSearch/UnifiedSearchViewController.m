@@ -31,7 +31,7 @@
 #import "HomeFilesSearchViewController.h"
 #import "FilesSearchCellData.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "GBDeviceInfo_iOS.h"
 

@@ -17,7 +17,7 @@
 
 #import "HomeViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "RecentsDataSource.h"
 

@@ -69,7 +69,7 @@
 #import "RoomSelectedStickerBubbleCell.h"
 #import "RoomPredecessorBubbleCell.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface PlainRoomTimelineCellProvider()
 

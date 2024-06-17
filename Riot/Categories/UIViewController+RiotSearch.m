@@ -20,7 +20,7 @@
 #import <objc/runtime.h>
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 /**
  `UIViewControllerRiotSearchInternals` is the internal single point storage for the search feature.

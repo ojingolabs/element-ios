@@ -18,7 +18,7 @@
 #import "PushNotificationService.h"
 
 #import <PushKit/PushKit.h>
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface PushNotificationService()<PKPushRegistryDelegate>
 

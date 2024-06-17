@@ -31,7 +31,7 @@
 
 #import "MXKAppSettings.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 const BOOL USE_THREAD_TIMELINE = YES;
 

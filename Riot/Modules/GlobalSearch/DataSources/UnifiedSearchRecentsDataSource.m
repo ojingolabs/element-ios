@@ -22,7 +22,7 @@
 #import "DirectoryRecentTableViewCell.h"
 
 #import "MXRoom+Riot.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface UnifiedSearchRecentsDataSource()
 {

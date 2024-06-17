@@ -34,9 +34,9 @@
 
 #import <MatrixSDK/MXBackgroundModeHandler.h>
 
-#import "MXKSwiftHeader.h"
+//#import "MXKSwiftHeader.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 NSString *const kMXKAccountUserInfoDidChangeNotification = @"kMXKAccountUserInfoDidChangeNotification";
 NSString *const kMXKAccountAPNSActivityDidChangeNotification = @"kMXKAccountAPNSActivityDidChangeNotification";

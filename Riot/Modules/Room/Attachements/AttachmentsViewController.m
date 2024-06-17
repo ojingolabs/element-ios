@@ -17,7 +17,7 @@
 
 #import "AttachmentsViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface AttachmentsViewController ()
 {

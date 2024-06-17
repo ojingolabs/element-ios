@@ -32,7 +32,7 @@
 #import "TableViewCellWithCollectionView.h"
 #import "SectionHeaderView.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 NSString *const RecentsViewControllerDataReadyNotification = @"RecentsViewControllerDataReadyNotification";
 

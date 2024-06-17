@@ -15,7 +15,7 @@
  */
 
 #import "NSBundle+MXKLanguage.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import <objc/runtime.h>
 

@@ -19,7 +19,7 @@
 
 #import "PublicRoomsDirectoryDataSource.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface DirectoryViewController () <RoomNotificationSettingsCoordinatorBridgePresenterDelegate, RoomContextActionServiceDelegate>
 {

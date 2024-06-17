@@ -18,7 +18,7 @@
 #import "DeviceTableViewCell.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "MXRoom+Riot.h"
 

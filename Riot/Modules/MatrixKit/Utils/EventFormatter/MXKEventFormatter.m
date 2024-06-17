@@ -23,12 +23,12 @@
 
 #import "MXEvent+MatrixKit.h"
 #import "NSBundle+MatrixKit.h"
-#import "MXKSwiftHeader.h"
+//#import "MXKSwiftHeader.h"
 #import "MXKTools.h"
 #import "MXRoom+Sync.h"
 
 #import "MXKRoomNameStringLocalizer.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 static NSString *const kHTMLATagRegexPattern = @"<a href=(?:'|\")(.*?)(?:'|\")>([^<]*)</a>";
 static NSString *const kRepliedTextPattern = @"<mx-reply>.*<blockquote>.*<br>(.*)</blockquote></mx-reply>";

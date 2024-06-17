@@ -19,7 +19,7 @@
 
 #import "RageShakeManager.h"
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface ReadReceiptsViewController () <UITableViewDataSource, UITableViewDelegate>
 {

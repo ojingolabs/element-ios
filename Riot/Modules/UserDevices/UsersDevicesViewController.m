@@ -17,7 +17,7 @@
 
 #import "UsersDevicesViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface UsersDevicesViewController () <KeyVerificationCoordinatorBridgePresenterDelegate>
 {

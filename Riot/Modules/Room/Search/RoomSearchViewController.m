@@ -22,7 +22,7 @@
 #import "RoomFilesSearchViewController.h"
 #import "FilesSearchCellData.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface RoomSearchViewController ()
 {

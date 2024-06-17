@@ -26,7 +26,7 @@
 #import "MXSession+Riot.h"
 #import "NSArray+Element.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 @import DesignKit;
 
 #define RECENTSDATASOURCE_SECTION_DIRECTORY     0x01

@@ -18,7 +18,7 @@
 
 #import "ShareItemSender.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 static const CGFloat kLargeImageSizeMaxDimension = 2048.0;
 static const CGSize kThumbnailSize = {800.0, 600.0};

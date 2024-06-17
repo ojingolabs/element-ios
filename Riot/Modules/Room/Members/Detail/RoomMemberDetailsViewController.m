@@ -18,7 +18,7 @@
 
 #import "RoomMemberDetailsViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "RoomMemberTitleView.h"
 

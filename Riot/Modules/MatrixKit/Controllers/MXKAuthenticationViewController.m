@@ -28,9 +28,9 @@
 #import <AFNetworking/AFNetworking.h>
 #import "MXKAppSettings.h"
 
-#import "MXKSwiftHeader.h"
+//#import "MXKSwiftHeader.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface MXKAuthenticationViewController ()
 {

@@ -19,7 +19,7 @@
 #import "FilesSearchTableViewCell.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @implementation FilesSearchTableViewCell
 @synthesize delegate, mxkCellData;

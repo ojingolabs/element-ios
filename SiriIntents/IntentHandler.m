@@ -16,7 +16,7 @@
 
 #import "IntentHandler.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 #import "MXKAccountManager.h"
 #import "ContactResolver.h"
 #import "StartAudioCallIntentHandler.h"

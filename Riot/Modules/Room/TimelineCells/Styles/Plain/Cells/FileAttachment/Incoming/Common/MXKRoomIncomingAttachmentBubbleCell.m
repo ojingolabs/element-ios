@@ -15,7 +15,7 @@
  */
 
 #import "MXKRoomIncomingAttachmentBubbleCell.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @implementation MXKRoomIncomingAttachmentBubbleCell
 

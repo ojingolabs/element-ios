@@ -19,7 +19,7 @@
 
 #import "PublicRoomTableViewCell.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #pragma mark - Constants definitions
 

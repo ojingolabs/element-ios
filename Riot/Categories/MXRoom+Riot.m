@@ -20,7 +20,7 @@
 
 #import "AvatarGenerator.h"
 #import "MatrixKit.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 #import <objc/runtime.h>
 
 @implementation MXRoom (Riot)

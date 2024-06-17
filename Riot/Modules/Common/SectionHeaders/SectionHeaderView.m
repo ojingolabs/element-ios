@@ -17,7 +17,7 @@
 
 #import "SectionHeaderView.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 static const CGFloat kInterItemsSpaceHorizontal = 8.0;
 

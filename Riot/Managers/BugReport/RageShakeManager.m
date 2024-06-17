@@ -21,7 +21,7 @@
 
 #import "BugReportViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 static RageShakeManager* sharedInstance = nil;
 

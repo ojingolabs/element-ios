@@ -17,7 +17,7 @@
 
 #import "RoomPreviewData.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @implementation RoomPreviewData
 

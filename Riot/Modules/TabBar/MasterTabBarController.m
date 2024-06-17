@@ -26,7 +26,7 @@
 #import "SettingsViewController.h"
 #import "SecurityViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @interface MasterTabBarController () <UITabBarControllerDelegate>
 {

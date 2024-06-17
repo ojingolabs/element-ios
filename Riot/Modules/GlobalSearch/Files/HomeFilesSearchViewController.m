@@ -17,7 +17,7 @@
 
 #import "HomeFilesSearchViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "HomeViewController.h"
 

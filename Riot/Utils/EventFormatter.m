@@ -18,7 +18,7 @@
 #import "EventFormatter.h"
 
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 #import "WidgetManager.h"
 

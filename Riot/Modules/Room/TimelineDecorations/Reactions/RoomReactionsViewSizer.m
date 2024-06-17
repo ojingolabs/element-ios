@@ -17,7 +17,7 @@ limitations under the License.
 #import "RoomReactionsViewSizer.h"
 #import <MatrixSDK/MatrixSDK.h>
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @implementation RoomReactionsViewSizer
 

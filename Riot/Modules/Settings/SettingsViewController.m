@@ -40,7 +40,7 @@
 
 #import "MediaPickerViewController.h"
 
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @import DesignKit;
 

@@ -19,7 +19,7 @@
 
 #import "AvatarGenerator.h"
 #import "ThemeService.h"
-#import "VERO-Swift.h"
+#import "ElementRiot/GeneratedInterface-Swift.h"
 
 @implementation DirectoryServerTableViewCell
 
