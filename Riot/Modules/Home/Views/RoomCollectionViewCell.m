@@ -19,7 +19,7 @@
 #import "AvatarGenerator.h"
 
 #import "ThemeService.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #import "MXRoomSummary+Riot.h"
 #import "MXRoom+Riot.h"

@@ -15,7 +15,7 @@
  */
 
 #import "NSBundle+MXKLanguage.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #import <objc/runtime.h>
 

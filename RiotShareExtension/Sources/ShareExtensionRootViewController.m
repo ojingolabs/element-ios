@@ -19,7 +19,7 @@
 #import "ThemeService.h"
 #import "ShareItemSender.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface ShareExtensionRootViewController ()
 

@@ -16,7 +16,7 @@
 
 #import "MXKRoomIncomingTextMsgBubbleCell.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation MXKRoomIncomingTextMsgBubbleCell
 

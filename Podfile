@@ -97,7 +97,7 @@ abstract_target 'RiotPods' do
     pod 'SideMenu', '~> 6.5'
     pod 'DSWaveformImage', '~> 6.1.1'
     
-    pod 'FLEX', '~> 4.5.0', :configurations => ['Debug'], :inhibit_warnings => true
+    pod 'FLEX', :configurations => ['Debug'], :inhibit_warnings => true
 
     target 'RiotTests' do
       inherit! :search_paths
@@ -114,11 +114,31 @@ abstract_target 'RiotPods' do
 
   target "RiotNSE" do
     import_MatrixSDK
-    import_MatrixKit_pods
+    import_MatrixKit_pods    
   end
 
   target "BroadcastUploadExtension" do
     import_MatrixSDK
+  end
+  
+  target "ElementRiot" do
+      import_MatrixSDK
+      import_MatrixKit_pods
+
+      import_SwiftUI_pods
+
+      pod 'UICollectionViewRightAlignedLayout', '~> 0.0.3'
+      pod 'UICollectionViewLeftAlignedLayout', '~> 1.0.2'
+      pod 'KTCenterFlowLayout', '~> 1.3.1'
+      pod 'FlowCommoniOS', '~> 1.12.0'
+      pod 'ReadMoreTextView', '~> 3.0.1'
+      pod 'SwiftBase32', '~> 0.9.0'
+      pod 'SwiftJWT', '~> 3.6.200'
+      pod 'SideMenu', '~> 6.5'
+      pod 'DSWaveformImage', '~> 6.1.1'
+      
+      pod 'FLEX', :configurations => ['Debug'], :inhibit_warnings => true
+            
   end
 
   # Disabled due to crypto corruption issues.
@@ -147,6 +167,10 @@ post_install do |installer|
       # Force ReadMoreTextView to use Swift 5.2 version (as there is no code changes to perform)
       if target.name.include? 'ReadMoreTextView'
         config.build_settings['SWIFT_VERSION'] = '5.2'
+      end
+      
+      if target.name.include? 'ElementRiot'
+        config.build_settings['SWIFT_VERSION'] = '5.0'
       end
 
       # Stop Xcode 12 complaining about old IPHONEOS_DEPLOYMENT_TARGET from pods

@@ -23,7 +23,7 @@
 #import "ShareDataSource.h"
 #import "ShareItemSenderProtocol.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface ShareManager () <ShareViewControllerDelegate, ShareItemSenderDelegate>
 

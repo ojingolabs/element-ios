@@ -16,7 +16,7 @@
  */
 
 #import <UIKit/UIKit.h>
-
+#import <Foundation/Foundation.h>
 /**
  The Matrix iOS Kit version.
  */

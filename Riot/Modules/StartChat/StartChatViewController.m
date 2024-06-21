@@ -17,7 +17,7 @@
 
 #import "StartChatViewController.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 #import "MXSession+Riot.h"
 
 @interface StartChatViewController () <UITableViewDataSource, UISearchBarDelegate, ContactsTableViewControllerDelegate, InviteFriendsHeaderViewDelegate>

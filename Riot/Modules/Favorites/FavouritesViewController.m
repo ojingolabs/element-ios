@@ -17,7 +17,7 @@
 #import "FavouritesViewController.h"
 
 #import "RecentsDataSource.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface FavouritesViewController () <MasterTabBarItemDisplayProtocol>
 {    

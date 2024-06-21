@@ -31,7 +31,7 @@
 
 #import "MXKAppSettings.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 const BOOL USE_THREAD_TIMELINE = YES;
 

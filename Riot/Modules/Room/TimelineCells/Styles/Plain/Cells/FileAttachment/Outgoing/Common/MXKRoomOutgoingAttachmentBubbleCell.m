@@ -23,7 +23,7 @@
 #import "MXKImageView.h"
 #import "MXKPieChartView.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation MXKRoomOutgoingAttachmentBubbleCell
 

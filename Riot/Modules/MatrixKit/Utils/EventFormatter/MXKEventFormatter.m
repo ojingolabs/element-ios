@@ -28,7 +28,7 @@
 #import "MXRoom+Sync.h"
 
 #import "MXKRoomNameStringLocalizer.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static NSString *const kHTMLATagRegexPattern = @"<a href=(?:'|\")(.*?)(?:'|\")>([^<]*)</a>";
 static NSString *const kRepliedTextPattern = @"<mx-reply>.*<blockquote>.*<br>(.*)</blockquote></mx-reply>";

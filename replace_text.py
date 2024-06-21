@@ -17,7 +17,7 @@ def process_directory(root_dir):
         for file in files:
             if file.endswith('.m'):
                 file_path = os.path.join(subdir, file)
-                replace_text_in_file(file_path, '#import "GeneratedInterface-Swift.h"', '#import "ElementRiot/GeneratedInterface-Swift.h"')
+                replace_text_in_file(file_path, '#import "ElementRiot/GeneratedInterface-Swift.h"', '#import "RiotSwiftHeader.h"')
 
 if __name__ == "__main__":
     root_directory = input("Введите путь к директории: ")

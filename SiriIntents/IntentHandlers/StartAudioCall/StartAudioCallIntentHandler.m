@@ -17,7 +17,7 @@
 #import "StartAudioCallIntentHandler.h"
 #import "MXKAccountManager.h"
 #import "ContactResolver.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface StartAudioCallIntentHandler ()
 

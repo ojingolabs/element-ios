@@ -24,7 +24,7 @@
 #import "RecentTableViewCell.h"
 #import "InviteRecentTableViewCell.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface PeopleViewController () <SpaceMembersCoordinatorBridgePresenterDelegate, MasterTabBarItemDisplayProtocol>
 {

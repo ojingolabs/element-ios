@@ -17,7 +17,7 @@
 #import "StartVideoCallIntentHandler.h"
 #import "ContactResolver.h"
 #import "MXKAccountManager.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface StartVideoCallIntentHandler ()
 

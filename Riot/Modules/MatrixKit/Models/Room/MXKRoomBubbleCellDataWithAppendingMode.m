@@ -16,7 +16,7 @@
 
 #import "MXKRoomBubbleCellDataWithAppendingMode.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static NSAttributedString *messageSeparator = nil;
 

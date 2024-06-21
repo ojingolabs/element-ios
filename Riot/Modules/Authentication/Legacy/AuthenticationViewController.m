@@ -24,7 +24,7 @@
 #import "ForgotPasswordInputsView.h"
 #import "AuthFallBackViewController.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static const CGFloat kAuthInputContainerViewMinHeightConstraintConstant = 150.0;
 

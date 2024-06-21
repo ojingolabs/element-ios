@@ -17,7 +17,7 @@
 #import "FallbackViewController.h"
 #import "ThemeService.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface FallbackViewController ()
 

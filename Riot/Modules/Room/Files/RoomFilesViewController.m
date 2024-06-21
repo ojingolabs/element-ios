@@ -19,7 +19,7 @@
 
 #import "FilesSearchTableViewCell.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #import "AttachmentsViewController.h"
 

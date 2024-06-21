@@ -14,6 +14,10 @@
 // limitations under the License.
 //
 
+#ifndef ElementRiot_h
+#define ElementRiot_h
+
+
 #import <Foundation/Foundation.h>
 
 //! Project version number for ElementRiot.
@@ -22,10 +26,9 @@ FOUNDATION_EXPORT double ElementRiotVersionNumber;
 //! Project version string for ElementRiot.
 FOUNDATION_EXPORT const unsigned char ElementRiotVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <ElementRiot/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import "PublicHeader.h"
 
-
-//#import "GeneratedInterface-Swift.h"
+//#import <MatrixSDK/MatrixSDK.h>
 #import "AllChatsLayoutModels.h"
 #import "AttachmentsViewController.h"
 #import "AuthFallBackViewController.h"
@@ -364,3 +367,13 @@ FOUNDATION_EXPORT const unsigned char ElementRiotVersionString[];
 #import "WidgetPickerViewController.h"
 #import "WidgetViewController.h"
 
+
+//former Briding-Header contents integrated here
+
+
+// MatrixKit-Bridging-Header.h that unmatched with above imports
+
+//#import "MXSDKOptions.h"
+//#import "MXKeyProvider.h"
+
+#endif /* ElementRiot_h */

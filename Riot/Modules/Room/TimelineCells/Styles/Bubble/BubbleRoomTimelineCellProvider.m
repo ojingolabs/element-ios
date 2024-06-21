@@ -51,7 +51,7 @@
 #import "RoomOutgoingEncryptedAttachmentWithoutSenderInfoBubbleCell.h"
 #import "RoomOutgoingEncryptedAttachmentWithPaginationTitleBubbleCell.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation BubbleRoomTimelineCellProvider
 

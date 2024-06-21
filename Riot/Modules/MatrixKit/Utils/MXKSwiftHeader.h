@@ -18,4 +18,4 @@
  If you want to reference a Swift class from the project please use forward declaration in the header file and then import this header in your implementation file.
 */
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"

@@ -18,7 +18,7 @@
 
 #import "FilesSearchCellData.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation FilesSearchCellData
 @synthesize roomId, senderDisplayName;

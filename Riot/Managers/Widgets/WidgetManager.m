@@ -17,7 +17,7 @@
 
 #import "WidgetManager.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 #import "JitsiWidgetData.h"
 #import "MXSession+Riot.h"
 

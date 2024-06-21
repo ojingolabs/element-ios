@@ -15,7 +15,7 @@
  */
 
 #import "MXKMessageTextView.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface MXKMessageTextView()
 

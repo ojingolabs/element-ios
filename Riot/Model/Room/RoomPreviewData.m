@@ -17,7 +17,7 @@
 
 #import "RoomPreviewData.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation RoomPreviewData
 

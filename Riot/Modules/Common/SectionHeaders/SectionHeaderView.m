@@ -17,7 +17,7 @@
 
 #import "SectionHeaderView.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static const CGFloat kInterItemsSpaceHorizontal = 8.0;
 

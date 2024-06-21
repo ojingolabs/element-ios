@@ -21,7 +21,7 @@
 
 #import "ThemeService.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface ShareViewController () <ShareDataSourceDelegate>
 

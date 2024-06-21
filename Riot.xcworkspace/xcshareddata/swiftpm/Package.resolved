@@ -1,4 +1,5 @@
 {
+  "originHash" : "45ed876a19192295d8b848d1af3bbd6d793f0f1a571c1f22cf4d629a9432cd62",
   "pins" : [
     {
       "identity" : "devicekit",
@@ -91,5 +92,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }

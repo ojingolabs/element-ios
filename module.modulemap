@@ -1,0 +1,9 @@
+framework module ElementRiot {
+  umbrella header "ElementRiot.h"
+//  header "ElementRiot-Bridging-Header.h"
+
+  export *
+  module * { export * }
+  link framework "MatrixSDK"
+  link framework "DTCoreText"
+}

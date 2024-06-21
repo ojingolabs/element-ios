@@ -16,7 +16,7 @@
 
 #import "CountryPickerViewController.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @interface CountryPickerViewController ()
 {

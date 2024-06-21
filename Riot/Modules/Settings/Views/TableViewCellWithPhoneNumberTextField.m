@@ -17,7 +17,7 @@
 #import "TableViewCellWithPhoneNumberTextField.h"
 
 #import "ThemeService.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #import "NBPhoneNumberUtil.h"
 

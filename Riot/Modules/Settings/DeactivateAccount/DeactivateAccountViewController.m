@@ -18,7 +18,7 @@
 
 #import <SafariServices/SafariServices.h>
 #import "ThemeService.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #pragma mark - Defines & Constants
 

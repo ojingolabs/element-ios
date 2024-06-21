@@ -17,7 +17,7 @@
 
 #import "TableViewCellWithCheckBoxes.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 // The space between 2 check boxes
 #define TABLEVIEWCELLWITHCHECKBOXES_MARGIN 8

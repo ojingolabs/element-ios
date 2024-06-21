@@ -21,7 +21,7 @@
 
 #import "UIViewController+RiotSearch.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #define CONTACTS_TABLEVC_LOCALCONTACTS_BITWISE 0x01
 #define CONTACTS_TABLEVC_USERDIRECTORY_BITWISE 0x02

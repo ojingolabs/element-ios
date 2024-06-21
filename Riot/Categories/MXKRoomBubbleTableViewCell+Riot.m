@@ -22,7 +22,7 @@
 #import "RoomBubbleCellData.h"
 #import "ThemeService.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 #define VECTOR_ROOMBUBBLETABLEVIEWCELL_MARK_X 48
 #define VECTOR_ROOMBUBBLETABLEVIEWCELL_MARK_WIDTH 4

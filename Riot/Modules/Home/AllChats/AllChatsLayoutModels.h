@@ -17,6 +17,8 @@
 #ifndef AllChatsLayoutModels_h
 #define AllChatsLayoutModels_h
 
+#import <Foundation/Foundation.h>
+
 typedef NS_OPTIONS(NSUInteger, AllChatsLayoutSectionType) {
     AllChatsLayoutSectionTypeRecents     = 1 << 0,
     AllChatsLayoutSectionTypeFavourites  = 1 << 1

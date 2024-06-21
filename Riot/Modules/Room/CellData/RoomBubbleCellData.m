@@ -23,7 +23,7 @@
 #import "Tools.h"
 #import "RoomReactionsViewSizer.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static NSAttributedString *timestampVerticalWhitespace = nil;
 

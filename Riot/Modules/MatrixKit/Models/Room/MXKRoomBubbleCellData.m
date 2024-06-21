@@ -26,7 +26,7 @@
 
 #import "MXKTools.h"
 
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 @implementation MXKRoomBubbleCellData
 @synthesize senderId, targetId, roomId, senderDisplayName, senderAvatarUrl, senderAvatarPlaceholder, targetDisplayName, targetAvatarUrl, targetAvatarPlaceholder, isEncryptedRoom, isPaginationFirstBubble, shouldHideSenderInformation, date, isIncoming, isAttachmentWithThumbnail, isAttachmentWithIcon, attachment;

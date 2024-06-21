@@ -18,7 +18,7 @@
 #import "RoomInputToolbarView.h"
 
 #import "ThemeService.h"
-#import "ElementRiot/GeneratedInterface-Swift.h"
+#import "RiotSwiftHeader.h"
 
 static const CGFloat kContextBarHeight = 24;
 static const CGFloat kActionMenuAttachButtonSpringVelocity = 7;
